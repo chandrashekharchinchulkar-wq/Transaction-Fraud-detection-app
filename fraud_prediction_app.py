@@ -14,7 +14,6 @@ st.set_page_config(
 
 # Title & Description
 st.title("🛡️ Transaction Fraud Detection App")
-st.write("Enter the transaction details below to check if it is fraud using your trained **XGBoost** model.")
 
 # ---------------------------------------------------------
 # Load Saved Model and Scaler
